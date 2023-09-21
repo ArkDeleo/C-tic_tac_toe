@@ -1,4 +1,4 @@
-# Install script for directory: /Users/admin/Desktop/C++ Project/C-XvsO/MX
+# Install script for directory: /Users/admin/Desktop/C++ Project/C-tic_tac_toe
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/admin/Desktop/C++ Project/C-XvsO/MX/cmake-build-default/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/admin/Desktop/C++ Project/C-tic_tac_toe/cmake-build-default/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
